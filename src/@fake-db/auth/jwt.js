@@ -11,9 +11,9 @@ const users = [
   {
     id: 1,
     role: 'admin',
-    password: 'admin',
-    fullName: 'John Doe',
-    username: 'johndoe',
+    password: '123456',
+    fullName: 'Alaa Magdy',
+    username: 'alaaMagdy',
     email: 'admin@admin.com'
   },
   {
